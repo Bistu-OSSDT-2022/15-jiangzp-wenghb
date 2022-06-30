@@ -11,9 +11,6 @@
 2. 运行：打开文件夹，运行gobangframe即可开始游戏。
 3. 开发工具：eclipse
 ***
-# 实机演示：
-![演示](https://github.com/Liuyongshun1/15-jiangzp-wenghb/blob/main/2022-06-30%20(5).png)
-***
 # 加入我们:
 1. 代码规范：简洁易懂，需要适当使用注释。
 2. 提交修改的格式：请在修改代码后说明你修复的问题或新增的功能。
@@ -48,9 +45,6 @@ This is a gobang game, gobang is a two - player chess game of pure strategy.  Th
 1. Download: Download the file to the local PC
 2. Run: Open the folder and run gobangFrame to start the game.  
 3. Development Tools:Eclipse .
-***
-# Real machine demo
-![演示](https://github.com/Liuyongshun1/15-jiangzp-wenghb/blob/main/2022-06-30%20(5).png)
 ***
 # join us:
 1. Code specification: concise and easy to understand, with appropriate use of comments. 
