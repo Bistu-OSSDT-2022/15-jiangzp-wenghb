@@ -12,7 +12,7 @@
 3. 开发工具：eclipse
 ***
 # 实机演示：
-(https://github.com/Liuyongshun1/15-jiangzp-wenghb/blob/main/2022-06-30%20(5).png)
+[演示](https://github.com/Liuyongshun1/15-jiangzp-wenghb/blob/main/2022-06-30%20(5).png)
 # 加入我们:
 1. 代码规范：简洁易懂，需要适当使用注释。
 2. 提交修改的格式：请在修改代码后说明你修复的问题或新增的功能。
